@@ -1,3 +1,5 @@
+<div align="center">
+  
 # Public Transportation Management System
 
 **Backend API** לניהול מערכת תחבורה ציבורית — אוטובוסים, נהגים, תחנות, קווים ונסיעות, בארכיטקטורת שכבות מבוססת Spring Boot.
@@ -11,6 +13,7 @@
 ![JWT](https://img.shields.io/badge/JWT-jjwt-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Lombok](https://img.shields.io/badge/Lombok-Boilerplate_Reduction-red?style=for-the-badge)
 
+</div>
 > ריפו זה מכיל את שכבת השרת (Backend) בלבד. צד הלקוח (Frontend) לא נכלל בריפו זה.
 
 ---
